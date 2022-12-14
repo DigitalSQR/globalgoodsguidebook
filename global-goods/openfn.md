@@ -40,4 +40,4 @@ For COVID-19 response, OpenFn implementations are adjusted to connect online and
 
 As of November 2021, OpenFn receives and processes 2.4 million messages (requests from external systems) every year. In addition, it runs more than a thousand different jobs (integration scripts) 2.6 million times every year. Also, it has more than 60 adaptors for the most used tools across the ICT4D sector and is used by more than 40 governments and nongovernmental organizations across 38 countries.
 
-![](<.gitbook/assets/Screenshot 2022-12-14 at 13.06.34.png>)
+![](<../.gitbook/assets/Screenshot 2022-12-14 at 13.06.34.png>)
