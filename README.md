@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Overview
 
 The Global Goods Guidebook showcases emergent and established global goods that are approved for investment through Digital Square. By better coordinating the development of digital health global goods, such as those presented in the guidebook, stakeholders involved in digital health can reduce duplication and ensure that platforms are not only more aligned with national priorities, but that they strengthen health systems.
